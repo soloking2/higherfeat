@@ -1,0 +1,23 @@
+/*Footer*/
+
+.extend{
+	background: #222;
+	color: #FFF;
+}
+.connect hr{
+	margin-top: -20px;
+}
+.extend p{
+	text-align: center;
+	margin-top: 20px;
+	padding: 5px;
+}
+@media(max-width: 768px){
+.extend{
+	background: #222;
+	color: #FFF;
+}
+.extend p{
+	margin-top: 40px;
+}
+}

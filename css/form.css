@@ -1,0 +1,48 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	font-family: "Trebuchet MS", sans-serif;
+}
+.form1{
+	margin-top: 30px;
+}
+.form1 .name{
+	width: 50%;
+}
+.form1 progress{
+	width: 100%;
+	border: none;
+}
+
+.secondForm, .thirdForm{
+	display: none;
+}
+
+.child-register{
+	box-shadow: 0px 0px 10px;
+	margin-top: 20px;
+}
+#formChild{
+	margin: 30px 25px 20px 25px;
+}
+.secondForm h2{
+	font-size: 20px;
+}
+.secondForm fieldset{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.secondForm fieldset > legend{
+	font-size: 16px;
+	font-weight: 900;
+}
+.secondForm .form-group{
+	margin-top: 10px;
+}
+.subfirst{
+	margin-top: 10px;
+}
+.subfirst label{
+	font-size: 15px;
+}

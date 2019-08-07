@@ -1,0 +1,233 @@
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.p1{
+	background: url(../higherfeats/6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	padding: 40px;
+	width: 100%;
+	min-height: 700px;
+}
+.p1 h3{
+	text-align: left;
+	margin-top: 210px;
+	font-family: Arial;
+	font-weight: 800;
+	font-size: 40px;
+	outline-width: 10px;
+}
+.p1 p{
+	font-size: 20px;
+	margin-top:30px;
+}
+.p1 h4{
+	font-weight: 900;
+}
+.p1 a.btn-success{
+	font-size: 22px;
+	margin-top: 20px;
+	padding: 10px 40px 10px 40px;
+	background: #003366;
+	border:none;
+	font-weight: 900;
+}
+@media(max-width: 768px){
+	.p1{
+	background: url(../higherfeats/6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover cover;
+	color: #fff;
+	padding: 40px;
+	width: 100%;
+	min-height: 700px;
+}
+.p1 h3{
+	text-align: center;
+	margin-top: 10px;
+	font-family: Arial;
+	font-weight: 800;
+	font-size: 40px;
+	outline-width: 10px;
+}
+.p1 p{
+	font-size: 20px;
+	margin-top:30px;
+	text-align: center;
+}
+.p1 h4{
+	margin-top: 30px;
+	font-weight: 900;
+	text-align: center;
+}
+.p1 a.btn-success{
+	font-size: 22px;
+	margin-top: 20px;
+	padding: 10px 40px 10px 40px;
+	background: #003366;
+	border:none;
+	font-weight: 900;
+}
+}
+/*end of p1*/
+.p2{
+	color: #000;
+}
+.p2 h2{
+	text-align: center;
+	margin-top: 70px;
+	color: #000;
+	font-size: 35px;
+	font-weight: 900;
+}
+.u p{
+	text-align: center;
+	margin-top: 30px;
+}
+.u i.fa{
+	font-size: 50px;
+	background: #ADD6D6;
+	border-radius: 30%;
+	color: #004020;
+	padding: 30px;
+}
+.u h4{
+	margin-top: 0px;
+	font-size: 25px;
+}
+.u h5{
+	margin: -40px 10px 5px 10px;
+	font-size: 16px;
+	margin
+
+}
+@media (max-width: 768px){
+	.p2{
+	color: #000;
+}
+.p2 h2{
+	text-align: center;
+	margin-top: -70px;
+	color: #000;
+	font-size: 35px;
+	font-weight: 900;
+}
+.u p{
+	text-align: center;
+	margin-top: 30px;
+}
+.u i.fa{
+	font-size: 50px;
+	background: #ADD6D6;
+	border-radius: 30%;
+	color: #004020;
+	padding: 30px;
+}
+.u h4{
+	margin-top: 0px;
+	font-size: 25px;
+}
+.u h5{
+	margin: -40px 10px 5px 10px;
+	font-size: 16px;
+	margin
+
+}
+}
+.p3{
+	margin-top: 20px;
+}
+.back1 h2{
+	margin-bottom: 15px;
+	font-size: 28px;
+	font-weight: 900;
+}
+.back1 p{
+	margin-top: 5px;
+	line-height: 1.5em;
+	text-align: justify;
+	font-size: 15.2px;
+}
+.back1 h4{
+	text-align: center;
+	margin-top: -10px;
+}
+.back1 span.fa{
+	font-size: 30px;
+}
+
+.p3 .row{
+	margin-right: 0px !important;
+	margin-left: 0px !important;
+}
+.p3 .col-lg-8 .col-md-8{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+.p3 .col-lg-4 .col-md-4{
+	padding-left: 0px !important;
+	padding-right: -30px !important;
+}
+@media(max-width: 768px){
+	.p3{
+	margin-top: 20px;
+}
+.back1 h2{
+	margin-bottom: 15px;
+	font-size: 28px;
+	font-weight: 900;
+	text-align: center;
+}
+.back1 p{
+	margin-top: 5px;
+	line-height: 1.5em;
+	text-align: justify;
+	font-size: 15.2px;
+}
+.back1 h4{
+	text-align: center;
+	margin-top: -10px;
+}
+.back1 span.fa{
+	font-size: 30px;
+}
+
+.p3 .row{
+	margin-right: 0px !important;
+	margin-left: 0px !important;
+}
+.p3 .col-lg-8 .col-md-8{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+.p3 .col-lg-4 .col-md-4{
+	padding-left: 0px !important;
+	padding-right: -30px !important;
+}
+}
+
+.p4{
+	text-align: center;
+	margin-top: 20px;
+}
+.p4 .step2,
+.p4 .step3{
+	margin-top: 60px;
+}
+.p4 .step1{
+	margin-top: 50px;
+}
+.p4 h4{
+	text-align: justify;
+	margin-top: 60px;
+	font-size: 20px;
+	line-height: 1.5em;
+}
+.connect hr{
+	margin-top: -20px;
+}
+.extend p{
+	text-align: center;
+	font-family: Tahoma;
+}

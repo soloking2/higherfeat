@@ -1,0 +1,163 @@
+.reg-one{
+	background: url(../higherfeats/tutor2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	min-height: 900px;
+	text-align: center;
+}
+.reg-one h2{
+	font-size: 80px;
+	text-align: center;
+	margin-top: 450px;
+	font-family: Verdana;
+	color:#FFF;
+	font-weight: 700;
+}
+.reg-one h4{
+	font-size: 30px;
+	color: #FFF;
+	font-weight: bold;
+	font-family: "Comic Sans MS";
+	margin: 30px 5px 20px 10px;
+}
+.reg-one a.btn-success{
+	font-size: 22px;
+	padding: 15px 80px 20px 90px;
+	margin: 20px;
+	background: #003040;
+	font-weight: 700;
+	border:none;
+}
+.reg-one i.fa{
+	margin-left: 5px;
+	padding-top: 10px;
+}
+@media(max-width: 768px){
+	.reg-one{
+	background: url(../higherfeats/tutor2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover cover;
+	width: 100%;
+	height: 900px;
+	text-align: center;
+}
+.reg-one h2{
+	font-size: 40px;
+	text-align: center;
+	margin-top: 250px;
+	font-family: Verdana;
+	color:#FFF;
+	font-weight: 700;
+}
+.reg-one h4{
+	font-size: 30px;
+	color: #FFF;
+	font-weight: bold;
+	font-family: "Comic Sans MS";
+	margin: 30px 5px 20px 5px;
+}
+.reg-one a.btn-success{
+	font-size: 22px;
+	padding: 15px 70px 20px 60px;
+	margin: 20px;
+	background: #003040;
+	font-weight: 700;
+	border:none;
+}
+.reg-one i.fa{
+	margin-left: 5px;
+	padding-top: 10px;
+}
+}
+/*End of Reg one*/
+
+/*Tutors*/
+.reg-tutor{
+	background: #ECECFB;
+	padding: 50px;
+}
+.reg-tutor h2{
+	text-align: center;
+	margin-bottom: 50px;
+	font-size: 30px;
+}
+.reg-tutor p{
+	text-align: center;
+}
+.reg-tutor i.fa{
+	background-color: #444;
+	color:#fff;
+	font-size: 50px;
+	border-radius: 50%;
+	padding: 30px;
+}
+.reg-tutor h4{
+	text-align: center;
+	font-weight: 700;
+}
+.reg-tutor h5{
+	text-align: center;
+	font-family: "Trebuchet MS";
+	font-size: 14px;
+	margin: 10px 20px 50px 10px;
+	padding: 10px;
+}
+
+/*Enf of tutors*/
+/*Registration */
+.reg-two{
+	margin-top: 40px;
+}
+.reg-two h2{
+	margin-top: 40px;
+	font-family: Georgia;
+	font-size: 30px;
+}
+
+.reg-two span{
+	font-size: 16px;
+}
+.reg-two h4{
+	font-size: 15px;
+	font-weight: 700;
+}
+.sign-up{
+	height: 5px;
+	width: 100%;
+	background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+	margin-bottom: 50px;
+}
+.reg-form{
+	background: #FFF;
+	box-shadow:0px 0px 10px;
+	padding: 30px;
+	font-family: "Trebuchet Ms";
+
+}
+.reg-form form{
+	margin: 20px;
+}
+.reg-form input{
+	font-size: 15px;
+	border-radius: 0px;
+}
+.reg-form .form-control{
+	padding:6px 12px 6px 12px;
+}
+.reg-form select{
+	border-radius: 0px;
+}
+.msg h5{
+	font-size: 16px;
+}
+.sub input[type=submit]{
+	font-size: 20px;
+}
+.connect hr{
+	margin-top: -20px;
+}
+.extend p{
+	text-align: center;
+	font-family: Tahoma;
+}
